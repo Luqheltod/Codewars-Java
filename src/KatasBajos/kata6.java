@@ -10,7 +10,7 @@ public class kata6 {
 		
 		//realiza un metodo que devuelva el numero de vocales de un string . 
 		
-		String prueba = "probandóa";
+		String prueba = "probaddndóa";
 		
 		System.out.println(getCount(prueba));
 		
